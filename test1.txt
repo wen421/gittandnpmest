@@ -1,3 +1,4 @@
  git commit --amend  //改 commit 名稱
  git reset HEAD^ --hard	//整個 commit 刪掉
  git reset head^	//comit 刪掉檔案不刪掉
+ git restore/checkout "檔案名或 . "   //檔案復原到儲存前可用 git status 查看指令
