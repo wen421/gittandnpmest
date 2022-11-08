@@ -2,4 +2,6 @@
  git reset HEAD^ --hard	//整個 commit 刪掉
  git reset head^	//comit 刪掉檔案不刪掉
  git restore/checkout "檔案名或 " . "   //檔案復原到儲存前可用 git status 查看指令
- git checkout "branch 名"	// 把遠端 / local 端的branch抓下來
+ git checkout "branch 名"	//把遠端 / local 端的branch抓下來
+ git clone "ssh連結"	//把別人的專案clone下來
+
