@@ -4,4 +4,4 @@ git add 			//將檔案加入版本控制
 git commit -m 			//將檔案加入版控資料夾
 git branch -v			//查看有哪些branch
 git branch "branch名"		//建立branch
-git branch  - d "branch名"	//建立branch
+git branch  - d "branch名"	//刪除branch
