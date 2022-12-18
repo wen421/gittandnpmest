@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+ git init 			//建立git
+ vim .gitignore 			//建立資料夾後加入不須加入版控的檔案
+ git add 			//將檔案加入版本控制
+ git commit -m 			//將檔案加入版控資料夾
+ git branch -v			//查看有哪些branch
+ git branch "branch名"		//建立branch
+ git branch  - d "branch名"	//刪除branch
+ git checkout "branch名"		//切換branch
+ git merge "要合併進來的branch"	//把新branch合併進來
+=======
+git init 			//建立git
+vim .gitignore 			//建立資料夾後加入不須加入版控的檔案
+git add 			//將檔案加入版本控制
+git commit -m 			//將檔案加入版控資料夾
+git branch -v			//查看有哪些branch
+git branch "branch名"		//建立branch
+git branch  - d "branch名"	//刪除branch
+>>>>>>> 4febe1ad2adae00b4de49074ad2182167f3064e9
