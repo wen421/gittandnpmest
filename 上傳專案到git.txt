@@ -1,4 +1,0 @@
-> 上傳新專案到 Git Hub
-git remote add origin https://github.com/wen421/gittest.git
-git branch -M main  //改branch名稱
-git push -u origin main
