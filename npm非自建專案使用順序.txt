@@ -1,0 +1,1 @@
+npm init	//根據pack.json安裝
