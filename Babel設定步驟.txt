@@ -1,0 +1,15 @@
+Babel
+
+設定步驟：
+
+安裝必要套件：npm install --save-dev @babel/core @babel/node @babel/preset-env
+
+新增 .babelrc
+填入內容，告訴 babel 要用這個 preset：
+{
+
+ "presets": ["@babel/preset-env"]
+
+}
+
+最後使用 npx babel-node "檔名" 即可
